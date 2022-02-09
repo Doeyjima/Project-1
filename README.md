@@ -1,4 +1,4 @@
-# Cryptocurrency Porfolio
+# Cryptocurrency Porfolio Analysis
 
 The idea to create the crypto portfolio analysis tool was due to the growing interest of the people around the world about the cryptocurrency investment.
 
