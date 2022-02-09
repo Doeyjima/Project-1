@@ -9,13 +9,10 @@ Coingecko was selected as the data provider because is one the most relying data
 
 For the development of the tool there were selected the first five crypto coins according to the ranking by market capitalization of the Coingecko website, at the moment. 
 
-
-For the development of the tool it was used a sample of 5 crypto-coins.
-
 Process description:
 
 1. Import all the required libraries using the Jupiter Lab program. 
-2. Choose the cryptocoins.
+2. Select the cryptocoins for the portfolio.
 3. Get the data using API’s requests from Coingecko.
 4. Convert the obtained data to JavaScript Object Notation (JSON).
 5. Convert JSON data to Pandas DataFrames.
