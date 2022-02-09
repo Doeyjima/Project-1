@@ -1,4 +1,4 @@
-# Cryptocurrency Porfolio Analysis
+# Cryptocurrency Portfolio Analysis
 
 The idea to create the crypto portfolio analysis tool was due to the growing interest of the people around the world about the cryptocurrency investment.
 
@@ -14,7 +14,7 @@ For the development of the tool there were selected the first five crypto coins 
 
 ![Coingecko website](coingecko.png)
 
-Process description:
+## Process description:
 
 1. Import all the required libraries using the Jupiter Lab program. 
 2. Select the cryptocoins for the portfolio.
