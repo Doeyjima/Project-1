@@ -5,9 +5,14 @@ The idea to create the crypto portfolio analysis tool was due to the growing int
 This tool allows to the user to create a cryptocurrency portfolio based on the analysis of forecast simulations of the performance of different crypto coins, providing data and graphics that helps to decide what crypto-coins to include in the portfolio and the quantity of each one.
 
 The data is provided by Coingecko trough API’s. 
+
+![Coingecko api](api.png)
+
 Coingecko was selected as the data provider because is one the most relying data source in the world and they provide more than 7 years of historical data for free. The historical data is a a fundamental component for the data simulation and forecasting.
 
 For the development of the tool there were selected the first five crypto coins according to the ranking by market capitalization of the Coingecko website, at the moment. 
+
+![Coingecko website](coingecko.png)
 
 Process description:
 
